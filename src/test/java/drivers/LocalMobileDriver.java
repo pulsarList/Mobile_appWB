@@ -18,7 +18,7 @@ import static io.appium.java_client.remote.MobileBrowserType.ANDROID;
 
 public class LocalMobileDriver implements WebDriverProvider {
 
-    static LocalConfig config = ConfigFactory.create(LocalConfig.class, System.getProperties());
+    static LocalConfig config = ConfigFactory.create(LocalConfig.class);
 
     public static URL getAppiumServerUrl() {
         try {
