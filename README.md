@@ -33,7 +33,7 @@ platformVersion: 9.0, 14.0
 <img width="6%" title="Android-studio" src="images/logo/Android-studio.svg">
 <img width="5.5%" title="Appium" src="images/logo/Appium.svg">
 <img width="5.7%" title="Appium inspector" src="images/logo/appium_inspector.svg">
-<img width="5.5%" title="Browserstack" src="images/logo/Browserstack.svg">
+<img width="5.3%" title="Browserstack" src="images/logo/Browserstack.svg">
 <img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
 <img width="5%" title="Allure TestOps" src="images/logo/allureTestOps.svg">
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
